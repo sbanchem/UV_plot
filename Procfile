@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run C:\python_test\UV_st2.py
